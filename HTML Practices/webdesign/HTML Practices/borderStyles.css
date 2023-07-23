@@ -1,0 +1,17 @@
+/* * {
+    border: ;
+} */
+
+head{
+    width: 50%;
+    padding-right: 3px;
+}
+h1{
+    border: 2px dashed black;
+    width: 50%;
+    text-align: center;
+    border-color: blue;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-inline-color: hsl(41, 34%, 31%);
+}
